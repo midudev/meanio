@@ -30,7 +30,7 @@
     "config": "^1.19.0",
     "dependable-list": "latest",
     "errorhandler": "latest",
-    "express-jwt": "latest",
+    "express-jwt": "5.3.3",
     "eventemitter2": "1.0.0",
     "glob": "5.0.15",
     "lazy-dependable": "latest",
